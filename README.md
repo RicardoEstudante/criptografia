@@ -1,4 +1,4 @@
- ![js.png](https://cryptoid.com.br/wp-content/uploads/2017/11/grungy-data-background-illustration-id672067120.jpg)
+ ![js.png](https://www.hardware.com.br/1078x516/smart/filters:format:(png)/@/static/wp/2019/11/01/80.png?fit=crop)
 
 # ----------Criptografia----------
 ## **`Implementando algoritmos de criptografia com Javascript puro`**
