@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="432e9ac5-c4e9-4c9e-9b02-fddb184dcf4e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cifraDeCesar.js" beforeDir="false" afterPath="$PROJECT_DIR$/cifra-de-cesar/cifrando-cesar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/descriptografandoCesar.js" beforeDir="false" afterPath="$PROJECT_DIR$/cifra-de-cesar/descifrando-cesar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cifra-de-cesar" />
+    </key>
+  </component>
   <component name="RunManager" selected="Node.js.cifrando-cesar.js">
     <configuration name="cifrando-cesar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cifra-de-cesar/cifrando-cesar.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
@@ -69,7 +73,7 @@
       <workItem from="1583354573521" duration="444000" />
       <workItem from="1583355717881" duration="68000" />
       <workItem from="1583356236366" duration="5000" />
-      <workItem from="1583415368681" duration="2645000" />
+      <workItem from="1583415368681" duration="2820000" />
     </task>
     <servers />
   </component>

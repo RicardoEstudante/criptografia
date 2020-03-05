@@ -1,4 +1,4 @@
- ![js.png](https://www.hardware.com.br/1078x516/smart/filters:format:(png)/@/static/wp/2019/11/01/80.png?fit=crop)
+ ![js.png](https://www.4infra.com.br/wp-content/uploads/Criptografia-de-dados-720x360.jpg)
 
 # Criptografia
 ## **`Implementando algoritmos de criptografia com Javascript puro`**
