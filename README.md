@@ -4,6 +4,6 @@
 ## **`Implementando algoritmos de criptografia com Javascript puro`**
 
 
-
 - Cifra de César
-- Descriptografando César
+    - Cifrando
+    - Descifrando
