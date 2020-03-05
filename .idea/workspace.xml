@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="432e9ac5-c4e9-4c9e-9b02-fddb184dcf4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/descriptografandoCesar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -9,6 +10,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +32,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v13.8.0/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RunManager" selected="Node.js.descriptografandoCesar.js">
+    <configuration name="cifraDeCesar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cifraDeCesar.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="descriptografandoCesar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/descriptografandoCesar.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.descriptografandoCesar.js" />
+        <item itemvalue="Node.js.cifraDeCesar.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,11 +62,35 @@
       <updated>1583352835373</updated>
       <workItem from="1583352837101" duration="573000" />
       <workItem from="1583354573521" duration="444000" />
-      <workItem from="1583355717881" duration="19000" />
+      <workItem from="1583355717881" duration="68000" />
+      <workItem from="1583356236366" duration="5000" />
+      <workItem from="1583415368681" duration="770000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1335" height="249" key="GridCell.Tab.0.bottom" timestamp="1583416137441">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1335" height="249" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583416137441" />
+    <state width="1335" height="249" key="GridCell.Tab.0.center" timestamp="1583416137440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1335" height="249" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583416137440" />
+    <state width="1335" height="249" key="GridCell.Tab.0.left" timestamp="1583416137440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1335" height="249" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583416137440" />
+    <state width="1335" height="249" key="GridCell.Tab.0.right" timestamp="1583416137441">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1335" height="249" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583416137441" />
+    <state x="185" y="17" key="SettingsEditor" timestamp="1583415422514">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="185" y="17" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1583415422514" />
   </component>
 </project>
